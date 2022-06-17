@@ -1,0 +1,3 @@
+Install extentions 
+1: Live server
+2: javascript es6 code snippets
